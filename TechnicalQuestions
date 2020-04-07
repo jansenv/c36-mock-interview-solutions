@@ -1,0 +1,6 @@
+1. Name the JSON commands that are equivalent to the CRUD functions.
+
+    CREATE = POST
+    READ = GET
+    UPDATE = PUT
+    DESTROY = DELETE
