@@ -4,4 +4,10 @@
 
     ii. Take the 5 weights on the 25.1 lb side and split them 3/2: The possibilities are either a 15 lbs/10.1 lbs ratio OR 15.1 lbs/10 lbs
 
-    iii. Take either the 3 weights weighing 15.1 lbs OR the 2 weights weighing 10.1 lbs and split again (If you have only 2 you will immediately know the answer). If you still have 3 weights, only weigh 2 of them anyway. This is because one of them will either be the 5.1 lb weight, OR they will weigh exactly the same, which will reveal that the one you aren't weighing is the 5.1!
+    iii. Take either the 3 weights weighing 15.1 lbs OR the 2 weights weighing 10.1 lbs and split again (If you have only 2 you will immediately know the answer). If you still have 3 weights, only weigh 2 of them anyway. This is because one of them will either be the 5.1 lb weight, OR they will weigh exactly the same, which means the one you aren't weighing is the 5.1!
+
+2. You have 9 balls, equally big, equally heavy - except for one, which is a little heavier. How would you identify the heavier ball if you could use a pair of balance scales only twice?
+
+    i. Split the 9 balls into 3 groups of 3, and weigh 2 groups against each other. Keep only the heavier side of balls -- if both sides weigh the same, you know the unweighed group contains the heavy ball.
+
+    ii. Take the 3 remaining balls and weigh only 2 of them against each other. Same logic: if either side is heavier then you have the answer, and if both sides weight the same, it's the unweighed ball.
